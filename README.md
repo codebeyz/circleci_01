@@ -11,7 +11,7 @@
 -   keep the server running and open another window from the terminal.
 -   navigate to the directory of the app in the command line.
 -   Start the front end using `npm run start:frontend`.
--   The app will be opened in your browser http://localhost:3000/
+-   The app will be  opened in your browser http://localhost:3000/
 
 ### API Instructions
 
