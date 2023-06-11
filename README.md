@@ -15,7 +15,7 @@
 
 ### API Instructions
 
-We Have 3 API end points:
+We  Have 3 API end points:
 
 #### Todos API:
 
